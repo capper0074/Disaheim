@@ -8,5 +8,12 @@ namespace Program
 {
     internal class Level
     {
+
+        public enum level
+        {
+            low, 
+            medium,
+            high,
+        }
     }
 }
